@@ -1,3 +1,2 @@
-# jenniferouyang.github.io
-# jenniferouyang.github.io
-# jenniferouyang.github.io
+Link to the app:
+https://jennouyang.shinyapps.io/FinalProject/
